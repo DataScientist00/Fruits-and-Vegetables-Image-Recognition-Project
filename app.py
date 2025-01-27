@@ -5,8 +5,7 @@ from PIL import Image
 import numpy as np
 
 # Load the pre-trained model
-#model = load_model('cnn_model.h5')
-model = tf.keras.models.load_model('cnn_model.h5')
+model = load_model('cnn_model.h5')
 
 
 # Define the class labels (replace with your actual class labels)
