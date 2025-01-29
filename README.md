@@ -4,7 +4,7 @@ This project implements an image classification system for identifying fruits an
 
 ## Watch the Video 📺
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/juvY1NHjD8o)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/b-dLYZL1xfA)
 
 ![Image](banner.png)
 ---
